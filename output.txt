@@ -1,0 +1,56 @@
+¥ © Day 11 acceleration plan x + - o x|% = <> Q Search Gy 08 im) - ao xX
+: ® moti id iment analyzer, 2 hot_to_textpy v x
+€> ¢4 25 chatgpt.com/c/6921cec5-6b.. Yr @=« & (1) : (ta) motion and experiment analyzer.py screenshot_to_text.py Cv oO
+C: > Users > Darshan jain > project > @ screenshot_to_text.py > ...
+ay M Gmail © Maps © All Bookmarks Q 12. # MB extract text from screenshot
+13 extracted_text = pytesseract.image_to_string(Image.open("capt
+-e Z, 14
+~~ ChatGPT v @ go 15 # QB save extracted text to file
+' 16 with open("output.txt", "w", encoding="utf-8") as f:
+You're still using Python 3.13, so the error will NEVER go away. & 17 ¥.write(extracted_text)
+18
+You must run your script wath Python 3.12, not 3.13. ~ print("M Text extracted and saved to output.txt") L
+21
+22
+
+ah
+
+@ Do this EXACTLY:
+
+=
+
+1. Run this:
+
+PROBLEMS OUTPUT  DEBUGCONSOLE PORTS TERMINAL 6 Jpy tv (D W
+
+2
+
+nginx O Copy code
+"C:\Users\Darshan jain\project" aN
+3 >» 2S
+py -3.12 screenshot_to_text.py PS C:\Users\Darshan jain\project> py -3.12 screenshot_to_text.py | =
+>>
+@ Text extracted and saved to output.txt
+NOT 3.13 PS C:\Users\Darshan jain\project>
+NOT double click PS C:\Users\Darshan jain\project>
+PS C:\Users\Darshan jain\project> & "C:\Users\Darshan jain\AppData\Loc
+NOT F5 in VS Code al\Programs\Python\Python313\python.exe" "c:/Users/Darshan jain/projec
+
+t/screenshot_to_text.py”
+
+ONLY this: Traceback (most recent call last):
+dy File "c:\Users\Darshan jain\project\screenshot_to_text.py", line 1,
+nginx O) Copy code in <module>
+(6) import pytesseract
+
+ModuleNotFoundError: No module named ‘pytesseract"
+PS C:\Users\Darshan jain\project> py -3.12 screenshot_to_text.py
+
+Ask hi Q
++ Ask anything Ge Q 4 &
+
+ChatGPT can make mistakes. Check important info. See Cookie Preferences. Xx @oAo0 Ln21,Col1 Spaces:4 UTF-8 CRLF {} Python @ Python3.13 (64-bit) Q
+
+21:34
+
+oY HEQeOCH+ORMUSGBVYHBeGeeon 26 SS eam
